@@ -1,0 +1,11 @@
+* {
+    background-color: aqua;
+}
+
+.text {
+    display: flex;
+}
+
+b {
+    color: aqua;
+}
