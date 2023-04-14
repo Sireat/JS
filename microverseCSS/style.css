@@ -1,0 +1,51 @@
+.one {
+    background-color: #1f2937;
+    color: white;
+}
+
+.one .a {
+    display: flex;
+}
+
+.one .b {
+    display: flex;
+}
+
+img {
+    display: flex 1, 1, auto;
+}
+
+button {
+    color: aqua;
+}
+
+.two {
+    background-color: #e7e5eb;
+}
+
+.two .box {
+    display: flex;
+    border: 15px solid #3882F6;
+    padding: 50px;
+    margin: 20px;
+}
+
+.two .p {
+    display: flex;
+    padding: 50px;
+    margin: 20px;
+}
+
+.three {
+    background-color: #e7e5eb;
+}
+
+.four {
+    background-color: #3882F6;
+    color: white;
+}
+
+footer {
+    background-color: #1f2937;
+    color: white;
+}
